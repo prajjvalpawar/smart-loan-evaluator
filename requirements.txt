@@ -1,5 +1,9 @@
+streamlit
 pandas
 numpy
 scikit-learn
-seaborn
-matplotlib
+joblib
+python-dateutil
+pytz
+requests
+altair
